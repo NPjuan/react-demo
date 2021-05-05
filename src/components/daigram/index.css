@@ -1,0 +1,13 @@
+.wrapper{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100%;
+	color: #273849;
+}
+main{
+	position: relative;
+	padding-bottom: 56.25%;
+	height: 0;
+	width: 100%;
+}
